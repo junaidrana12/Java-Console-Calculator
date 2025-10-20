@@ -16,7 +16,7 @@ This project is designed to help beginners understand **Java fundamentals**, inc
 
 ## 🛠️ Technologies Used
 - **Language:** Java (JDK 8 or later)  
-- **IDE:** IntelliJ IDEA / VS Code / Eclipse  
+- **IDE:** IntelliJ IDEA  
 - **Input/Output:** Console (Scanner class)
 
 ## 📈 Future Enhancements
